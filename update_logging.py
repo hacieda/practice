@@ -1,5 +1,5 @@
 import sys
-import datetime
+from datetime import datetime
 
 
 class Logger:
